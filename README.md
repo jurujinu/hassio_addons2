@@ -1,4 +1,4 @@
-imported from/fork of https://github.com/mrmichaelrb/hassio-addons/issues
+imported from/fork of https://github.com/mrmichaelrb/hassio-addons
 
 Add-ons for Home Assistant, allow you to extend the functionality
 around your Home Assistant setup.
