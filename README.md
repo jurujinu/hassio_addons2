@@ -1,4 +1,4 @@
-# Home Assistant Add-ons: Michael Richard Brown's repository
+
 
 Add-ons for Home Assistant, allow you to extend the functionality
 around your Home Assistant setup.
@@ -7,14 +7,6 @@ Add-ons can be installed and configured via the Home Assistant frontend on
 systems that have installed Home Assistant.
 
 ## Add-ons provided by this repository
-
-- **[GoDaddy DNS](/godaddy_dns/README.md)**
-
-    Automatically update your GoDaddy DNS IP address with integrated HTTPS support via Let's Encrypt.
-
-- **[Google Cloud DNS](/google_cloud_dns/README.md)**
-
-    Automatically update your Google Cloud DNS IP address with integrated HTTPS support via Let's Encrypt.
 
 - **[LFTP Mirror](/lftp_mirror/README.md)**
 
