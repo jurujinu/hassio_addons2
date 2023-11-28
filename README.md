@@ -1,4 +1,5 @@
 imported from/fork of https://github.com/mrmichaelrb/hassio-addons
+fixed "the s6-overlay-suexec: fatal: can only run as pid 1" issue 
 
 Add-ons for Home Assistant, allow you to extend the functionality
 around your Home Assistant setup.
